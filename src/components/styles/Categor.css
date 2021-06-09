@@ -1,0 +1,87 @@
+.imagenCategor{
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    left: 0px;
+    top: 0px; 
+    border-radius: 50%;  
+}
+
+.textoCategor{
+    position: absolute;
+    height: 26px;
+    top: 151px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 108.9%;
+    text-align: center;
+    color: #2D2D2D;    
+}
+
+.imagCategor1{
+    position: absolute;
+    width: 130px;
+    height: 177px;
+    left: 25px;
+    top: 45px;
+}
+
+.imagCategor2{
+    position: absolute;
+    width: 130px;
+    height: 177px;
+    left: 198px;
+    top: 45px;    
+}
+
+.imagCategor3{
+    position: absolute;
+    width: 130px;
+    height: 177px;
+    left: 371px;
+    top: 45px;    
+}
+
+.imagCategor4{
+    position: absolute;
+    width: 130px;
+    height: 177px;
+    left: 544px;
+    top: 45px;    
+}
+
+.imagCategor5{
+    position: absolute;
+    width: 130px;
+    height: 177px;
+    left: 716px;
+    top: 45px;    
+}
+
+.imagCategor1 .texto1{
+    width: 89px;
+    left: 21px;
+}
+
+.imagCategor2 .texto2{
+    width: 104px;
+    left: 13px;   
+}
+
+.imagCategor3 .texto3{
+    width: 117px;
+    left: 7px;    
+}
+
+.imagCategor4 .texto4{
+    width: 100px;
+    height: 13px;
+    left: 15px;   
+}
+
+.imagCategor5 .texto5{
+    width: 118px;
+    left: 6px;   
+}

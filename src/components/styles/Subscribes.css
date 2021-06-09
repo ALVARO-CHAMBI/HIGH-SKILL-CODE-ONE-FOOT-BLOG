@@ -1,0 +1,57 @@
+.imagenSubscribes{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 22px;
+    top: 15px;
+}
+
+.textoSubscribes{
+    position: absolute;
+    width: 60px;
+    height: 12px;
+    left: 48px;
+    top: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #000000;
+}
+
+.divSubscribes1{
+    position: absolute;
+    width: 133px;
+    height: 43px;
+    left: 0px;
+    top: 58px;
+    background: #DEDADA;
+}
+
+.divSubscribes2{
+    position: absolute;
+    width: 133px;
+    height: 43px;
+    left: 137px;
+    top: 58px;
+    background: #DEDADA;    
+}
+
+.divSubscribes3{
+    position: absolute;
+    width: 133px;
+    height: 43px;
+    left: 0px;
+    top: 105px;
+    background: #DEDADA;    
+}
+
+.divSubscribes4{
+    position: absolute;
+    width: 133px;
+    height: 43px;
+    left: 137px;
+    top: 105px;
+    background: #DEDADA;    
+}
