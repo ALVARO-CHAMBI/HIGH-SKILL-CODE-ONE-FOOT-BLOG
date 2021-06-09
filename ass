@@ -1,0 +1,210 @@
+[33mcommit 185e2104ad2dee317a8e6867fcfff524a2d6ef9d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 662fc1a 0c9306c
+Author: Andreees <rommelgrillin@gmail.com>
+Date:   Wed Jun 9 08:38:03 2021 -0400
+
+    segundaparte
+
+[33mcommit 662fc1ad7b92c1f604de6f442e8cbf6449eff922[m
+Author: Andreees <rommelgrillin@gmail.com>
+Date:   Wed Jun 9 08:32:24 2021 -0400
+
+    parteandres
+
+ src/components/Card.js            |  73 [32m+++++++++++++++[m[31m--------------[m
+ src/components/Lateral.js         |  20 [32m++++++++[m
+ src/components/Recetas.js         |  84 [32m+++++++++++++++++++++++++++++++++[m
+ src/components/styles/lateral.css | 139 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ src/components/styles/recetas.css | 349 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 5 files changed, 629 insertions(+), 36 deletions(-)
+
+[33mcommit 0c9306cfd008f447731331ad90c39e35bd65d4b2[m
+Author: daniel54bhp <69922878+daniel54bhp@users.noreply.github.com>
+Date:   Wed Jun 9 08:18:33 2021 -0400
+
+    ttt
+
+ src/App.js                            |   14 [32m++[m
+ src/assets/getContentCategor.js       |   36 [32m+++++[m
+ src/assets/getContentLastRecipes.js   |   54 [32m+++++++[m
+ src/assets/getContentMost.js          |   74 [32m+++++++++[m
+ src/assets/getContentSubscribes.js    |   26 [32m++++[m
+ src/assets/getContentTranding.js      |   36 [32m+++++[m
+ src/components/Blog.js                |  182 [32m++++++++++++++++++++++[m
+ src/components/Categor.js             |   11 [32m++[m
+ src/components/LastRecipes.js         |   19 [32m+++[m
+ src/components/Most.js                |   19 [32m+++[m
+ src/components/Subscribes.js          |   11 [32m++[m
+ src/components/Tranding.js            |   16 [32m++[m
+ src/components/styles/Blog.css        | 1072 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ src/components/styles/Categor.css     |   87 [32m+++++++++++[m
+ src/components/styles/LastRecipes.css |  132 [32m++++++++++++++++[m
+ src/components/styles/Most.css        |  275 [32m++++++++++++++++++++++++++++++++++[m
+ src/components/styles/Subscribes.css  |   57 [32m+++++++[m
+ src/components/styles/Tranding.css    |  116 [32m++++++++++++++[m
+ 18 files changed, 2237 insertions(+)
+
+[33mcommit 9881cc4117b7273058df7fffba955955d9690ed0[m
+Author: daniel54bhp <69922878+daniel54bhp@users.noreply.github.com>
+Date:   Wed Jun 9 08:17:33 2021 -0400
+
+    Delete src directory
+
+ src/App.js                                   |  17 [31m-------[m
+ src/components/Card.js                       | 103 [31m------------------------------------------[m
+ src/components/FollowMe.js                   |  26 [31m-----------[m
+ src/components/LatestRecipes.js              |  29 [31m------------[m
+ src/components/image/Backgroud.png           | Bin [31m969760[m -> [32m0[m bytes
+ src/components/image/Follow Me Instagram.png | Bin [31m5061[m -> [32m0[m bytes
+ src/components/image/Recipes-1.jpg           | Bin [31m55076[m -> [32m0[m bytes
+ src/components/image/Recipes-2.jpg           | Bin [31m52959[m -> [32m0[m bytes
+ src/components/image/Recipes-3.jpg           | Bin [31m66582[m -> [32m0[m bytes
+ src/components/image/Recipes-4.jpg           | Bin [31m44521[m -> [32m0[m bytes
+ src/components/image/Recipes-5.jpg           | Bin [31m55876[m -> [32m0[m bytes
+ src/components/image/Recipes-6.jpg           | Bin [31m47503[m -> [32m0[m bytes
+ src/components/image/Rectangle 4.png         | Bin [31m144870[m -> [32m0[m bytes
+ src/components/image/Rectangle 5.png         | Bin [31m99336[m -> [32m0[m bytes
+ src/components/image/Rectangle 6.png         | Bin [31m125289[m -> [32m0[m bytes
+ src/components/image/Rectangle 7.png         | Bin [31m123794[m -> [32m0[m bytes
+ src/components/image/clock 1.png             | Bin [31m531[m -> [32m0[m bytes
+ src/components/image/follow-1.jpg            | Bin [31m59548[m -> [32m0[m bytes
+ src/components/image/follow-2.jpg            | Bin [31m93168[m -> [32m0[m bytes
+ src/components/image/follow-3.jpg            | Bin [31m62266[m -> [32m0[m bytes
+ src/components/image/follow-4.jpg            | Bin [31m66063[m -> [32m0[m bytes
+ src/components/image/follow-5.jpg            | Bin [31m72517[m -> [32m0[m bytes
+ src/components/image/line-1.jpg              | Bin [31m877[m -> [32m0[m bytes
+ src/components/image/numeros.jpg             | Bin [31m3255[m -> [32m0[m bytes
+ src/components/image/restaurant 1.png        | Bin [31m470[m -> [32m0[m bytes
+ src/components/image/search (2) 1.jpg        | Bin [31m1417[m -> [32m0[m bytes
+ src/components/image/user 1.png              | Bin [31m436[m -> [32m0[m bytes
+ src/components/styles/Card.css               | 302 [31m----------------------------------------------------------------------------------------------------------------------------[m
+ src/components/styles/follow.css             |  31 [31m-------------[m
+ src/components/styles/latest.css             |  78 [31m--------------------------------[m
+ src/global.css                               |  23 [31m----------[m
+ src/index.js                                 |   9 [31m----[m
+ 32 files changed, 618 deletions(-)
+
+[33mcommit 335440332a7346a9760b0f82d90bb78c387e2adb[m
+Author: daniel54bhp <69922878+daniel54bhp@users.noreply.github.com>
+Date:   Wed Jun 9 08:16:06 2021 -0400
+
+    UPdate
+
+ README.md         |    4 [32m+[m[31m-[m
+ package-lock.json | 1741 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m---------------------------------------------[m
+ package.json      |   10 [32m+[m[31m-[m
+ 3 files changed, 1231 insertions(+), 524 deletions(-)
+
+[33mcommit 6c1abfb9f3ea5309c3b78b549f58435d8b1f779b[m
+Author: AndresMunozM <80470356+AndresMunozM@users.noreply.github.com>
+Date:   Wed Jun 9 08:06:39 2021 -0400
+
+    Update Card.css
+
+ src/components/styles/Card.css | 14 [32m+++++++[m[31m-------[m
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+
+[33mcommit f6ca99dc3187a4aeb82147106d73abc87de8fce0[m
+Merge: 3a65f64 d68572b
+Author: daniel54bhp <69922878+daniel54bhp@users.noreply.github.com>
+Date:   Wed Jun 9 07:34:28 2021 -0400
+
+    Merge pull request #1 from daniel54bhp/patch-1
+    
+    Cambio 7
+
+[33mcommit 3a65f64497c6748cfe6bb3fdac59a4794275a1c0[m
+Author: daniel54bhp <69922878+daniel54bhp@users.noreply.github.com>
+Date:   Wed Jun 9 07:33:14 2021 -0400
+
+    Actualización
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit d68572b58fbd22481988c91e82e2b60cb92706ba[m
+Author: daniel54bhp <69922878+daniel54bhp@users.noreply.github.com>
+Date:   Wed Jun 9 07:28:50 2021 -0400
+
+    Cambio 7
+
+ src/index.js | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 870355820afa50c3a859a263f8d72bcbc900d465[m
+Author: Mauricio <jayllonm@est.emi.edu.bo>
+Date:   Wed Jun 9 06:45:51 2021 -0400
+
+    creamos Follow me y Latest Recipes
+
+ src/components/Card.js                       |  77 [32m++++++++++++++++++++++++++++++++++++++++[m[31m-------------------------------------[m
+ src/components/FollowMe.js                   |  26 [32m++++++++++++++++++++++++++[m
+ src/components/LatestRecipes.js              |  29 [32m+++++++++++++++++++++++++++++[m
+ src/components/image/Follow Me Instagram.png | Bin [31m0[m -> [32m5061[m bytes
+ src/components/image/Recipes-1.jpg           | Bin [31m0[m -> [32m55076[m bytes
+ src/components/image/Recipes-2.jpg           | Bin [31m0[m -> [32m52959[m bytes
+ src/components/image/Recipes-3.jpg           | Bin [31m0[m -> [32m66582[m bytes
+ src/components/image/Recipes-4.jpg           | Bin [31m0[m -> [32m44521[m bytes
+ src/components/image/Recipes-5.jpg           | Bin [31m0[m -> [32m55876[m bytes
+ src/components/image/Recipes-6.jpg           | Bin [31m0[m -> [32m47503[m bytes
+ src/components/image/follow-1.jpg            | Bin [31m0[m -> [32m59548[m bytes
+ src/components/image/follow-2.jpg            | Bin [31m0[m -> [32m93168[m bytes
+ src/components/image/follow-3.jpg            | Bin [31m0[m -> [32m62266[m bytes
+ src/components/image/follow-4.jpg            | Bin [31m0[m -> [32m66063[m bytes
+ src/components/image/follow-5.jpg            | Bin [31m0[m -> [32m72517[m bytes
+ src/components/image/line-1.jpg              | Bin [31m0[m -> [32m877[m bytes
+ src/components/image/numeros.jpg             | Bin [31m0[m -> [32m3255[m bytes
+ src/components/styles/Card.css               |   5 [32m++++[m[31m-[m
+ src/components/styles/follow.css             |  31 [32m+++++++++++++++++++++++++++++++[m
+ src/components/styles/latest.css             |  78 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 20 files changed, 208 insertions(+), 38 deletions(-)
+
+[33mcommit 1a2bbda84fc4122f9efd2037e9477563506634ac[m
+Author: ALVARO <chambia04@gmail.com>
+Date:   Wed Jun 9 00:40:45 2021 -0400
+
+    readmeee
+
+ README.md                                                   |   2 [32m++[m
+ src/components/image/{Backgroud Image.png => Backgroud.png} | Bin
+ 2 files changed, 2 insertions(+)
+
+[33mcommit b57668ee29638e56df79f0c13ced26ac60664eca[m
+Author: unknown <chambia04@gmail.com>
+Date:   Wed Jun 9 00:32:45 2021 -0400
+
+    Readme
+
+ README.md | 10 [32m+++++[m[31m-----[m
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+[33mcommit cb364316102046b1a03d705f8197b209e09cf2ce[m
+Author: unknown <chambia04@gmail.com>
+Date:   Sun Jun 6 00:26:10 2021 -0400
+
+    primera parte foot blog
+
+ .env                                     |     1 [32m+[m
+ .gitignore                               |    23 [32m+[m
+ README.md                                |    70 [32m+[m
+ package-lock.json                        | 15771 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ package.json                             |    38 [32m+[m
+ public/favicon.ico                       |   Bin [31m0[m -> [32m3870[m bytes
+ public/index.html                        |    19 [32m+[m
+ public/manifest.json                     |    25 [32m+[m
+ public/robots.txt                        |     3 [32m+[m
+ src/App.js                               |    17 [32m+[m
+ src/components/Card.js                   |   100 [32m+[m
+ src/components/image/Backgroud Image.png |   Bin [31m0[m -> [32m969760[m bytes
+ src/components/image/Rectangle 4.png     |   Bin [31m0[m -> [32m144870[m bytes
+ src/components/image/Rectangle 5.png     |   Bin [31m0[m -> [32m99336[m bytes
+ src/components/image/Rectangle 6.png     |   Bin [31m0[m -> [32m125289[m bytes
+ src/components/image/Rectangle 7.png     |   Bin [31m0[m -> [32m123794[m bytes
+ src/components/image/clock 1.png         |   Bin [31m0[m -> [32m531[m bytes
+ src/components/image/restaurant 1.png    |   Bin [31m0[m -> [32m470[m bytes
+ src/components/image/search (2) 1.jpg    |   Bin [31m0[m -> [32m1417[m bytes
+ src/components/image/user 1.png          |   Bin [31m0[m -> [32m436[m bytes
+ src/components/styles/Card.css           |   299 [32m+++[m
+ src/global.css                           |    23 [32m+[m
+ src/index.js                             |     8 [32m+[m
+ 23 files changed, 16397 insertions(+)
