@@ -1,0 +1,132 @@
+.tituloLast{
+    position: absolute;
+    width: 234px;
+    height: 14.92px;
+    left: 23px;
+    top: 129.32px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 100.9%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.textoLast{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 100.9%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.iconosLast{
+    position: absolute;
+    top: 0;
+    width: 8px;
+    height: 8px;
+}
+
+.lastImgReceta{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 0;
+    top: 0;
+}
+
+.grupoImagLast{
+    position: absolute;
+    width: 177px;
+    height: 7.96px;
+    left: 54px;
+    top: 157.17px;
+    
+}
+
+.grupoImagLast .texto1{
+    position: absolute;
+    width: 39.9px;
+    height: 7.96px;
+    left: 10.23px;
+    top: 0;
+}
+
+.grupoImagLast .texto2{
+    position: absolute;
+    width: 37.86px;
+    height: 7.96px;
+    left: 74.69px;
+    top: 0;   
+}
+
+.grupoImagLast .texto3{
+    position: absolute;
+    width: 39.9px;
+    height: 7.96px;
+    left: 137.1px;
+    top: 0;    
+}
+
+.grupoImagLast .img1{
+    left: 0;
+}
+
+.grupoImagLast .img2{
+    left: 65.14px;    
+}
+
+.grupoImagLast .img3{
+    left: 128.23px;    
+}
+
+.imagLast1{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 0px;
+    top: 0px;
+}
+
+.imagLast2{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 290px;
+    top: 0px;
+}
+
+.imagLast3{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 580px;
+    top: 0px;
+}
+
+.imagLast4{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 0px;
+    top: 201px;
+}
+
+.imagLast5{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 290px;
+    top: 201px;
+}
+
+.imagLast6{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 580px;
+    top: 201px;
+}

@@ -1,0 +1,1072 @@
+.principal{
+    position: relative;
+    width: 1440px;
+    height: 3540px;
+    background: #FFFFFF;
+}
+
+.fotter{
+    position: absolute;
+    width: 1440px;
+    height: 291px;
+    left: 0px;
+    top: 3249px;
+}
+
+.copyright{
+    position: absolute;
+    width: 1440px;
+    height: 63px;
+    left: 0px;
+    top: 228px;
+    background: #2D2D2D;
+}
+
+.copyright text{
+    position: absolute;
+    width: 325px;
+    height: 15px;
+    left: 573px;
+    top: 25px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 100.9%;
+    color: #FFFFFF;
+}
+
+.imagenCopyright{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 542px;
+    top: 20px;
+}
+
+.about{
+    position: absolute;
+    width: 270px;
+    height: 118px;
+    left: 135px;
+    top: 0px;  
+}
+
+.archives{
+    position: absolute;
+    width: 103px;
+    height: 120px;
+    left: 435px;
+    top: 0px;
+}
+
+.recipe{
+    position: absolute;
+    width: 123px;
+    height: 120px;
+    left: 737px;
+    top: 0px;
+}
+
+.newsletter{
+    position: absolute;
+    width: 270px;
+    height: 128px;
+    left: 1035px;
+    top: 0px;
+}
+
+.tituloFotter{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 100.9%;
+    color: #2D2D2D;    
+}
+
+.about .tituloFotter{
+    position: absolute;
+    width: 67px;
+    height: 24px;
+    top: 0;
+    left: 0;    
+}
+
+.archives .tituloFotter{
+    position: absolute;
+    width: 96px;
+    height: 24px;
+    left: 435px;
+    top: 0;
+    left: 0; 
+}
+
+.recipe .tituloFotter{
+    position: absolute;
+    width: 86px;
+    height: 24px;
+    left: 737px;
+    top: 0;
+    left: 0; 
+}
+
+.newsletter .tituloFotter{
+    position: absolute;
+    width: 117px;
+    height: 24px;
+    left: 1035px;
+    top: 0;
+    left: 0; 
+}
+
+.textoFotter{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 170.9%;
+    color: #2D2D2D;    
+}
+
+.about text{
+    position: absolute;
+    width: 270px;
+    height: 79px;
+    top: 39px;
+}
+
+.newsletter .textoFotter{
+    position: absolute;
+    width: 270px;
+    height: 52px;
+    top: 39px;    
+}
+
+.archives .text1{
+    position: absolute;
+    width: 62px;
+    height: 15px;
+    left: 19px;
+    top: 47px;
+}
+
+.archives .text2{
+    position: absolute;
+    width: 62px;
+    height: 15px;
+    left: 19px;
+    top: 76px;    
+}
+
+.archives .text3{
+    position: absolute;
+    width: 84px;
+    height: 15px;
+    left: 19px;
+    top: 105px;   
+}
+
+.recipe .text1{
+    position: absolute;
+    width: 104px;
+    height: 15px;
+    left: 19px;
+    top: 47px;   
+}
+
+.recipe .text2{
+    position: absolute;
+    width: 80px;
+    height: 15px;
+    left: 19px;
+    top: 76px;    
+}
+
+.recipe .text3{
+    position: absolute;
+    width: 94px;
+    height: 15px;
+    left: 19px;
+    top: 105px;   
+}
+
+.circuloFotter{
+    position: absolute;
+    width: 8px;
+    height: 8px;    
+    background: #FE4A51;
+    border-radius: 50%;
+}
+
+.archives .cir1{
+    top: 55px;
+}
+
+.archives .cir2{
+    top: 84px;
+}
+
+.archives .cir3{
+    top: 113px;
+}
+
+.recipe .cir1{
+    top: 55px;
+}
+
+.recipe .cir2{
+    top: 84px;
+}
+
+.recipe .cir3{
+    top: 113px;
+}
+
+.suscripcion{
+    position: absolute;
+    width: 252px;
+    height: 33px;
+    top: 95px;
+    background: #DEDADA;
+}
+
+.email{
+    position: absolute;
+    width: 99px;
+    height: 21px;
+    left: 17px;
+    top: 6px;   
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 170.9%; 
+    color: #2D2D2D;
+}
+
+.suscripcion div{
+    position: absolute;
+    width: 75px;
+    height: 33px;
+    left: 177px;
+    background: #FE4A51;   
+}
+
+.subs{
+    position: absolute;
+    width: 52px;
+    height: 21px;
+    left: 12px;
+    top: 6px;   
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 170.9%;
+    color: #FFFFFF;
+}
+
+.hero{
+    position: absolute;
+    width: 1440px;
+    height: 832px;
+    left: 0px;
+    top: 35px;
+}
+
+.fondo{
+    position: absolute;
+    width: 1440px;
+    height: 636px;
+    left: 0px;
+    top: 81px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://i78.servimg.com/u/f78/20/31/61/87/backgr11.jpg);
+    object-fit: cover;
+}
+
+.menu{
+    position: absolute;
+    width: 1170px;
+    height: 38px;
+    left: 135px;
+}
+
+.logo{
+    position: absolute;
+    width: 99px;
+    height: 29px;
+    top: 5px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #FE4A51;
+}
+
+.menu .textoMenu{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2D2D2D;
+}
+
+.menu .home{
+    position: absolute;
+    width: 54px;
+    height: 24px;
+    left: 282px;
+    top: 7px;
+}
+
+.menu .recipes{
+    position: absolute;
+    width: 69px;
+    height: 24px;
+    left: 387px;
+    top: 7px;
+}
+
+.menu .pages{
+    position: absolute;
+    width: 52px;
+    height: 24px;
+    left: 507px;
+    top: 7px;
+}
+
+.menu .about{
+    position: absolute;
+    width: 88px;
+    height: 24px;
+    left: 610px;
+    top: 7px;
+}
+
+.menu .blog{
+    position: absolute;
+    width: 40px;
+    height: 24px;
+    left: 749px;
+    top: 7px;
+}
+
+.menu .contact{
+    position: absolute;
+    width: 71px;
+    height: 24px;
+    left: 840px;
+    top: 7px;
+}
+
+.buscar{
+    position: absolute;
+    width: 135px;
+    height: 38px;
+    left: 1035px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.buscar text{
+    position: absolute;
+    width: 82px;
+    height: 12px;
+    left: 40px;
+    top: 13px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2D2D2D;
+}
+
+.buscar .circulo{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 15px;
+    top: 13px;
+    border: 2px solid #FE4A51;
+    border-radius: 50%;
+}
+
+.buscar .palo{
+    position: absolute;
+    width: 5.9px;
+    height: 2.9px;
+    left: 23px;
+    top: 23px;
+    transform: rotate(45deg);
+    border-top: 2px solid #FE4A51;
+}
+
+.mexican{
+    position: absolute;
+    width: 529px;
+    height: 264px;
+    left: 456px;
+    top: 209px;
+}
+
+.mexican .titulo{
+    position: absolute;
+    width: 529px;
+    height: 146px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 100.9%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.grupo6 .imagenHero1{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 0px;
+    top: 0px;
+}
+
+.grupo6 .imagenHero2{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 127px;
+    top: 0px;
+        
+}
+
+.grupo6 .imagenHero3{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 250px;
+    top: 0px;  
+}
+
+.viewRecipes{
+    position: absolute;
+    width: 124px;
+    height: 38px;
+    left: 202px;
+    top: 226px;
+    background: #FE4A51;
+}
+
+.viewRecipes text{
+    position: absolute;
+    width: 82px;
+    height: 14px;
+    left: 21px;
+    top: 12px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100.9%;
+    color: #FFFFFF;    
+}
+
+.grupo6{
+    position: absolute;
+    width: 341px;
+    height: 16px;
+    left: 94px;
+    top: 178px;
+}
+
+.grupo6 .texto{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 100.9%;  
+    text-align: center; 
+    color: #FFFFFF;
+}
+
+.grupo6 .texto1{
+    position: absolute;
+    width: 68px;
+    height: 14px;
+    left: 22px;
+    top: 1px;
+}
+
+.grupo6 .texto2{
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: 149px;
+    top: 1px;
+}
+
+.grupo6 .texto3{
+    position: absolute;
+    width: 69px;
+    height: 14px;
+    left: 272px;
+    top: 1px;
+}
+
+.imagenes{
+    position: absolute;
+    width: 1170px;
+    height: 231px;
+    left: 135px;
+    top: 601px;
+}
+
+.imagenes .imagin{
+    position: absolute;
+    width: 285px;
+    height: 230px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+.imagenes .imagen1{
+    left: 0;
+}
+
+.imagenes .imagen2{
+    left: 295px;
+}
+
+.imagenes .imagen3{
+    left: 590px;
+}
+
+.imagenes .imagen4{
+    left: 885px;
+}
+
+.mostRecipes{
+    position: absolute;
+    width: 870px;
+    height: 820px;
+    left: 135px;
+    top: 932px;   
+}
+
+.mostRecipes .titulo{
+    position: absolute;
+    width: 360px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 100.9%;
+    color: #2D2D2D;
+}
+
+.mostRecipes .texto{
+    position: absolute;
+    width: 14px;
+    height: 26px;
+    top: 794px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 108.9%;
+    text-align: center;
+    color: #2D2D2D;
+}
+
+.mostRecipes .t1{
+    left: 407px;
+    color: #FE4A51;
+}
+
+.mostRecipes .t2{
+    left: 436px;
+}
+
+.mostRecipes .t3{
+    left: 465px;
+}
+
+.mostRecipes .vector{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 490px;
+    top: 802px;
+    transform: rotate(45deg);
+    border-top: 2px solid #2D2D2D;
+    border-right: 2px solid #2D2D2D;
+}
+
+.mostRecipes .lineaRoja{
+    position: absolute;
+    width: 70px;
+    height: 0px;
+    top: 57px;
+    z-index: 3;
+    border: 1px solid #FE4A51;
+}
+
+.mostRecipes .lineaNormal{
+    position: absolute;
+    width: 870px;
+    height: 0px;
+    top: 57px;
+    z-index: 1;
+    border: 1px solid #2D2D2D;
+}
+
+.mostRecipes .imagenes{
+    position: absolute;
+    width: 870px;
+    height: 662px;
+    left: 0;
+    top: 82px;
+}
+
+.recipes{
+    position: absolute;
+    width: 870px;
+    height: 550px;
+    left: 135px;
+    top: 2209px;   /*------------------------------*/
+}
+
+.recipes .titulo{
+    position: absolute;
+    width: 239px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 100.9%;
+    color: #2D2D2D;
+}
+
+.recipes .texto{
+    position: absolute;
+    width: 14px;
+    height: 26px;
+    top: 524px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 108.9%;
+    text-align: center;
+    color: #2D2D2D;
+}
+
+.recipes .t1{
+    left: 407px;
+    color: #FE4A51;
+}
+
+.recipes .t2{
+    left: 436px;
+}
+
+.recipes .t3{
+    left: 465px;
+}
+
+.recipes .vector{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 490px;
+    top: 532px;
+    transform: rotate(45deg);
+    border-top: 2px solid #2D2D2D;
+    border-right: 2px solid #2D2D2D;
+}
+
+.recipes .lineaRoja{
+    position: absolute;
+    width: 70px;
+    height: 0px;
+    top: 57px;
+    z-index: 3;
+    border: 1px solid #FE4A51;
+}
+
+.recipes .lineaNormal{
+    position: absolute;
+    width: 870px;
+    height: 0px;
+    top: 57px;
+    z-index: 1;
+    border: 1px solid #2D2D2D;
+}
+
+.recipes .imagenes{
+    position: absolute;
+    width: 870px;
+    height: 391px;
+    left: 0;
+    top: 82px;
+}
+
+.categoris{
+    position: absolute;
+    width: 870px;
+    height: 257px;
+    left: 135px;
+    top: 1887px;
+    background: #FFE5E6;    
+}
+
+.followMe{
+    position: absolute;
+    width: 1440px;
+    height: 255px;
+    left: 0px;
+    top: 2894px;    
+}
+
+.followMe .imagen{
+    position: absolute;
+    width: 288px;
+    height: 255px;
+    top: 0px;
+}
+
+.followMe .imagen1{
+    left: 0px;
+}
+
+.followMe .imagen2{
+    left: 288px;
+}
+
+.followMe .imagen3{
+    left: 576px;
+}
+
+.followMe .imagen4{
+    left: 864px;
+}
+
+.followMe .imagen5{
+    left: 1152px;
+}
+
+.suscribIns{
+    position: absolute;
+    width: 138px;
+    height: 138px;
+    left: 651px;
+    top: 59px;  
+    background: rgba(254, 74, 81, 0.8);
+    border-radius: 50%;
+}
+
+.suscribIns .logoIns{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 19px;
+    top: 72px;
+}
+
+.suscribIns .foll{
+    position: absolute;
+    width: 64px;
+    height: 15px;
+    left: 38px;
+    top: 50px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 108.9%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.suscribIns .instagram{
+    position: absolute;
+    width: 82px;
+    height: 20px;
+    left: 38px;
+    top: 69px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 108.9%;
+    color: #FFFFFF;
+}
+
+.authori{
+    position: absolute;
+    width: 270px;
+    height: 409px;
+    left: 1035px;
+    top: 976px;   
+}
+
+.tituloAutor{
+    position: absolute;
+    width: 61px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 100.9%;
+    color: #2D2D2D;    
+}
+
+.nombreAutor{
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    left: 70px;
+    top: 294px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 100.9%;
+    color: #2D2D2D;    
+}
+
+.descripcionAutor{
+    position: absolute;
+    width: 219px;
+    height: 70px;
+    left: 26px;
+    top: 339px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 138.9%;
+    text-align: center;
+    color: rgba(45, 45, 45, 0.6);
+}
+
+.imagenAutor{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 35px;
+    top: 71px;
+    filter: drop-shadow(0px 1px 10px rgba(0, 0, 0, 0.15));    
+}
+
+.authori .lineaNormal{
+    position: absolute;
+    width: 270px;
+    height: 0px;
+    left: 0px;
+    top: 48px;
+    border: 1px solid #2D2D2D;
+}
+
+.authori .lineaRoja{
+    position: absolute;
+    width: 51px;
+    height: 0px;
+    left: 0px;
+    top: 48px;
+    border: 1px solid #FE4A51;
+}
+
+.subscribe{
+    position: absolute;
+    width: 270px;
+    height: 148px;
+    left: 1035px;
+    top: 1410px;  
+}
+
+.subscribe .lineaNormal{
+    position: absolute;
+    width: 270px;
+    height: 0px;
+    left: 0px;
+    top: 34px;
+    border: 1px solid #2D2D2D;
+}
+
+.subscribe .lineaRoja{
+    position: absolute;
+    width: 70px;
+    height: 0px;
+    left: 0px;
+    top: 34px;
+    border: 1px solid #FE4A51;
+}
+
+.tituloSubscribe{
+    position: absolute;
+    width: 163px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 100.9%; 
+    color: #2D2D2D;
+}
+
+.ad{
+    position: absolute;
+    width: 270px;
+    height: 266px;
+    left: 1035px;
+    top: 1583px;
+}
+
+.imagenAdd{
+    position: absolute;
+    width: 270px;
+    height: 266px;
+    left: 0px;
+    top: 0px;
+}
+
+.textoAdd{
+    position: absolute;
+    width: 47px;
+    height: 36px;
+    left: 112px;
+    top: 115px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 100.9%;
+    color: #FFFFFF;
+}
+
+.updates{
+    position: absolute;
+    width: 270px;
+    height: 195px;
+    left: 1035px;
+    top: 1874px;
+    background: #DEDADA;
+}
+
+.tituloUpdates{
+    position: absolute;
+    width: 154px;
+    height: 30px;
+    left: 58px;
+    top: 25px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 163.9%;
+    color: #2D2D2D;
+}
+
+.direccionEmail{
+    position: absolute;
+    width: 220px;
+    height: 40px;
+    left: 25px;
+    top: 80px;
+    background: #FFFFFF;
+}
+
+.direccionEmail .texto{
+    position: absolute;
+    width: 99px;
+    height: 20px;
+    left: 61px;
+    top: 10px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 163.9%;
+    color: #2D2D2D;
+}
+
+.suscribirseUpdates{
+    position: absolute;
+    width: 220px;
+    height: 40px;
+    left: 25px;
+    top: 130px;
+    background: #FE4A51;
+}
+
+.suscribirseUpdates .texto{
+    position: absolute;
+    width: 79px;
+    height: 30px;
+    left: 71px;
+    top: 5px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 163.9%;
+    color: #FFFFFF;
+}
+
+.tranding{
+    position: absolute;
+    width: 270px;
+    height: 461px;
+    left: 1035px;
+    top: 2256px;
+}
+
+.tranding .tituloTranding{
+    position: absolute;
+    width: 147px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 100.9%;
+    color: #2D2D2D;
+}
+
+.tranding .lineaNormal{
+    position: absolute;
+    width: 270px;
+    height: 0px;
+    left: 0px;
+    top: 45px;
+    border: 1px solid #2D2D2D;
+}
+
+.tranding .lineaRoja{
+    position: absolute;
+    width: 70px;
+    height: 0px;
+    left: 0px;
+    top: 45px;
+    border: 1px solid #FE4A51;
+}

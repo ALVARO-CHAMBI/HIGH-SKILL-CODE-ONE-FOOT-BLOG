@@ -1,0 +1,116 @@
+.tituloTrandingImg{
+    position: absolute;
+    height: 34px;
+    left: 84px;
+    top: 0px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 111.9%;
+    color: #2D2D2D;
+}
+
+.grupoTranding{
+    position: absolute;
+    width: 112px;
+    height: 15px;
+    left: 84px;
+    top: 41px;    
+}
+
+.grupoTranding .texto1{
+    position: absolute;
+    width: 17px;
+    height: 14px;
+    left: 20px;
+    top: 1px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 100.9%;
+    color: rgba(45, 45, 45, 0.6);
+}
+
+.grupoTranding .texto2{
+    position: absolute;
+    width: 80px;
+    height: 14px;
+    left: 42px;
+    top: 1px; 
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 100.9%;
+    color: #2D2D2D;
+}
+
+.grupoTranding .imagen{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 0px;
+    top: 0px;   
+}
+
+.tituloTrand1{
+    width: 175px;
+}
+
+.tituloTrand2{
+    width: 182px;
+}
+
+.tituloTrand3{
+    width: 172px;
+}
+
+.tituloTrand4{
+    width: 177px;
+}
+
+.tituloTrand5{
+    width: 167px;
+}
+
+.imagTrand1{
+    position: absolute;
+    width: 259px;
+    height: 70px;
+    left: 0px;
+    top: 70px;
+}
+
+.imagTrand2{
+    position: absolute;
+    width: 266px;
+    height: 70px;
+    left: 0px;
+    top: 150px;
+}
+
+.imagTrand3{
+    position: absolute;
+    width: 256px;
+    height: 70px;
+    left: 0px;
+    top: 230px;
+}
+
+.imagTrand4{
+    position: absolute;
+    width: 261px;
+    height: 70px;
+    left: 0px;
+    top: 310px;
+}
+
+.imagTrand5{
+    position: absolute;
+    width: 251px;
+    height: 70px;
+    left: 0px;
+    top: 390px;
+}

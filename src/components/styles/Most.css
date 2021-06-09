@@ -1,0 +1,275 @@
+.tituloMost{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 100.9%;
+    color: #FFFFFF;
+}
+
+.textoMost{
+    position: absolute;
+    top: 0;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100.9%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.iconosMost{
+    position: absolute;
+    top: 0;
+    width: 12px;
+    height: 12px;
+}
+
+.imag1{
+    position: absolute;
+    width: 470px;
+    height: 326px;
+    left: 0px;
+    top: 0px;
+}
+
+.imgReceta1{
+    position: absolute;
+    width: 470px;
+    height: 326px;
+    left: 0px;
+    top: 0px;
+}
+
+.imag1 .titulo1{
+    position: absolute;
+    width: 404px;
+    height: 20px;
+    left: 33px;
+    top: 254px;
+}
+
+.grupoImag1{
+    position: absolute;
+    width: 252px;
+    height: 12px;
+    left: 109px;
+    top: 289px;
+}
+
+.grupoImag1 .texto11{
+    width: 58px;
+    height: 12px;
+    left: 18px;
+}
+
+.grupoImag1 .texto21{
+    width: 55px;
+    height: 12px;
+    left: 107px;    
+}
+
+.grupoImag1 .texto31{
+    width: 59px;
+    height: 12px;
+    left: 193px;    
+}
+
+.grupoImag1 .img11{
+    left: 0;
+}
+
+.grupoImag1 .img21{
+    left: 89px;   
+}
+
+.grupoImag1 .img31{
+    left: 175px;   
+}
+
+.imag2{
+    position: absolute;
+    width: 390px;
+    height: 326px;
+    left: 480px;
+    top: 0px;
+}
+
+.imgReceta2{
+    position: absolute;
+    width: 390px;
+    height: 326px;
+    left: 0;
+    top: 0px;
+}
+
+.imag2 .titulo2{
+    position: absolute;
+    width: 294px;
+    height: 20px;
+    left: 48px;
+    top: 254px;
+}
+
+.grupoImag2{
+    position: absolute;
+    width: 252px;
+    height: 12px;
+    left: 69px;
+    top: 289px;
+}
+
+.grupoImag2 .texto12{
+    width: 58px;
+    height: 12px;
+    left: 18px;
+}
+
+.grupoImag2 .texto22{
+    width: 55px;
+    height: 12px;
+    left: 107px;    
+}
+
+.grupoImag2 .texto32{
+    width: 59px;
+    height: 12px;
+    left: 193px;    
+}
+
+.grupoImag2 .img12{
+    left: 0;
+}
+
+.grupoImag2 .img22{
+    left: 89px;   
+}
+
+.grupoImag2 .img32{
+    left: 175px;   
+}
+
+.imag3{
+    position: absolute;
+    width: 390px;
+    height: 326px;
+    left: 0px;
+    top: 336px;
+}
+
+.imgReceta3{
+    position: absolute;
+    width: 390px;
+    height: 326px;
+    left: 0px;
+    top: 0;
+}
+
+.imag3 .titulo3{
+    position: absolute;
+    width: 255.55px;
+    height: 20px;
+    left: 67px;
+    top: 254px;
+}
+
+.grupoImag3{
+    position: absolute;
+    width: 252px;
+    height: 12px;
+    left: 66px;
+    top: 289px;
+}
+
+.grupoImag3 .texto13{
+    width: 58px;
+    height: 12px;
+    left: 18px;
+}
+
+.grupoImag3 .texto23{
+    width: 55px;
+    height: 12px;
+    left: 107px;    
+}
+
+.grupoImag3 .texto33{
+    width: 59px;
+    height: 12px;
+    left: 193px;    
+}
+
+.grupoImag3 .img13{
+    left: 0;
+}
+
+.grupoImag3 .img23{
+    left: 89px;   
+}
+
+.grupoImag3 .img33{
+    left: 175px;   
+}
+
+.imag4{
+    position: absolute;
+    width: 470px;
+    height: 326px;
+    left: 400px;
+    top: 336px;
+}
+
+.imgReceta4{
+    position: absolute;
+    width: 470px;
+    height: 326px;
+    left: 0;
+    top: 0;
+}
+
+.imag4 .titulo4{
+    position: absolute;
+    width: 340px;
+    height: 20px;
+    left: 65px;
+    top: 254px;
+}
+
+.grupoImag4{
+    position: absolute;
+    width: 252px;
+    height: 12px;
+    left: 109px;
+    top: 289px;
+}
+
+.grupoImag4 .texto14{
+    width: 58px;
+    height: 12px;
+    left: 18px;
+}
+
+.grupoImag4 .texto24{
+    width: 55px;
+    height: 12px;
+    left: 107px;    
+}
+
+.grupoImag4 .texto34{
+    width: 59px;
+    height: 12px;
+    left: 193px;    
+}
+
+.grupoImag4 .img14{
+    left: 0;
+}
+
+.grupoImag4 .img24{
+    left: 89px;   
+}
+
+.grupoImag4 .img34{
+    left: 175px;   
+}
