@@ -1,14 +1,17 @@
-import React from 'react'
-import Blog from "./components/Blog";
-import "./global.css"
-
-export default function App() {
+import React from 'react';
+import Card from './components/Card';
 
 
-  //  const card = data[0];
+function App() {
     return (
-        <>
-            <Blog/>
-        </>
-    )
+        <div className="container-cards">
+            {/* {data.map((card) => { */}
+            {/*     return <Card data={card} />; */}
+            {/* })} */}
+            <Card />
+            
+        </div>
+    );
 }
+
+export default App;

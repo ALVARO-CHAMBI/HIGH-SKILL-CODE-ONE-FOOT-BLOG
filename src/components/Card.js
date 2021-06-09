@@ -1,7 +1,9 @@
 import React from 'react';
-import Recetas from './Recetas';
-import Lateral from './Lateral';
+import FollowMe from './FollowMe';
+import Latest from './LatestRecipes';
+
 import './styles/Card.css'
+
 
 export default function card() {
     return (
@@ -90,12 +92,12 @@ export default function card() {
                                         <img src="https://i.servimg.com/u/f40/20/34/56/97/rectan13.png" alt=""/>
                                     </div>
                                 </div>
+                                <Latest/>
+                                <FollowMe />
+                               
                             </div>
                         </div>
-                    <Recetas/>
-                    <Lateral/>
                     </section>
-
-        </>
+              </>
     )
 };

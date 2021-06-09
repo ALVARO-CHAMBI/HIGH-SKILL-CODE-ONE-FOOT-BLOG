@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+.Latest-Recipes{
+    position: absolute;
+    width: 870px;
+    height: 550px;
+    left: 135px;
+    top: 2244px;
+    
+}
+.Latest-Recipes p{
+    position: absolute;
+    width: 239px;
+    
+    left: 0px;
+    top: -15px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 0%;
+/* or 36px */
+color: #2D2D2D;
+}
+.Latest-Recipes .line-1{
+    position: absolute;
+    left: px;
+    top: 57px;
+}
+.Latest-Recipes .recipes-1{
+position: absolute;
+width: 280px;
+height: 190px;
+left: 0px;
+top: 82px;
+}
+.Latest-Recipes .recipes-2{
+position: absolute;
+width: 280px;
+height: 190px;
+left: 290px;
+top: 82px;
+}
+.Latest-Recipes .recipes-3{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 590px;
+    top: 82px;
+}
+.Latest-Recipes .recipes-4{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 0px;
+    top: 282px;
+}
+.Latest-Recipes .recipes-5{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 290px;
+    top: 282px;
+}
+.Latest-Recipes .recipes-6{
+    position: absolute;
+    width: 280px;
+    height: 190px;
+    left: 590px;
+    top: 282px;
+}
+.Latest-Recipes .numeros{
+position: absolute;
+width: 111px;
+height: 26px;
+left: 407px;
+top: 524px;
+}
