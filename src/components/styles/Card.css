@@ -2,6 +2,7 @@
      border: solid 1px; 
  }   */
 
+@import url(follow.css);
 
  .cards-container{
     display: flex;
@@ -17,8 +18,9 @@
     position: relative;
     width: 1440px;
     height: 3540px;
-    background: var(--plomo);
+    background: #ffff/*var(--plomo)*/;
     border-radius: 8px;
+    /*border: 2px solid red;*/
 }
 .hero-seation{  
     width: 1440px;
@@ -157,6 +159,7 @@
     line-height: 12px;
     color: #2D2D2D;
     padding: 13px 13px 13px 40px;
+   
 }
 .card-Backgroud-Image{
     width: 1440px;
